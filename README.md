@@ -17,3 +17,8 @@ I have seen multiple range finder but almost all of them had radar like display,
 
 # Schematics:
 <img width="1000" height="1076" alt="Schematics" src="https://github.com/user-attachments/assets/148f428e-7514-49a3-9115-b7ddd1f788f8" />
+
+## BOM
+
+|Item no.| Component | Specs/Model | Price(inr) | print(US$) | Item link
+|1| Esp32 devkit | ESP32-S3-DevKitC-1-N8R8 | ₹1,194.87 | | https://www.mouser.in/ProductDetail/Espressif-Systems/ESP32-S3-DevKitC-1-N8R8?qs=7D1LtPJG0i2PiuUUKucutQ%3D%3D&mgh=1&utm_source=chatgpt.com
