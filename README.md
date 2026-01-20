@@ -30,7 +30,7 @@ I have seen multiple range finder but almost all of them had radar like display,
 | 6        | Breadboard & jumpers| —                             | ₹199        | $2.19       | [Link](https://www.amazon.in/ApTechDeals-Breadboard-point-jumper-wires/dp/B07PQS67BN) |
 | 7        | Resistors          | 10k ohm                        | ₹129        | $1.42       | [Link](https://www.amazon.in/10k-Ohm-Resistor-Tolerance-Pack/dp/B0DQFKBHBB) |
 | 8        | Resistors          | 4.7k ohm                       | ₹129        | $1.42       | [Link](https://www.amazon.in/4-7k-Ohm-Resistor-Tolerance-Pack/dp/B0DQFHLBJ9) |
-| 9        | PushButton         | --                             | ₹185        | %2.2        | [Link](https://www.amazon.in/ElectroBot-Momentary-Tactile-Push-Button/dp/B07PRRRBRY)
-| **Total** | —                  | —                              | **₹2,611.87** | **$28.73** | — |
+| 9        | PushButton         | --                             | ₹185        | &2.2        | [Link](https://www.amazon.in/ElectroBot-Momentary-Tactile-Push-Button/dp/B07PRRRBRY)
+| **Total** | —                  | —                              | **₹2,796.87** | **$30.72** | — |
 
 Note* In some of the links their are multiple component because I coudnt find single component link.
