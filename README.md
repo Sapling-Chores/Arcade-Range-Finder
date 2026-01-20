@@ -20,8 +20,6 @@ I have seen multiple range finder but almost all of them had radar like display,
 
 ## BOM
 
-# Component Price List
-
 | Item no. | Component           | Specs/Model                  | Price (INR) | Price (US$) | Item link |
 |----------|-------------------|------------------------------|-------------|-------------|-----------|
 | 1        | ESP32 devkit       | ESP32‑S3‑DevKitC‑1‑N8R8      | ₹1,194.87   | $13.14      | [Link](https://www.mouser.in/ProductDetail/Espressif-Systems/ESP32-S3-DevKitC-1-N8R8?qs=7D1LtPJG0i2PiuUUKucutQ%3D%3D&mgh=1&utm_source=chatgpt.com) |
@@ -32,5 +30,6 @@ I have seen multiple range finder but almost all of them had radar like display,
 | 6        | Breadboard & jumpers| —                             | ₹199        | $2.19       | [Link](https://www.amazon.in/ApTechDeals-Breadboard-point-jumper-wires/dp/B07PQS67BN) |
 | 7        | Resistors          | 10k ohm                        | ₹129        | $1.42       | [Link](https://www.amazon.in/10k-Ohm-Resistor-Tolerance-Pack/dp/B0DQFKBHBB) |
 | 8        | Resistors          | 4.7k ohm                       | ₹129        | $1.42       | [Link](https://www.amazon.in/4-7k-Ohm-Resistor-Tolerance-Pack/dp/B0DQFHLBJ9) |
-| 9        | Push Buttons       | -                              | ₹185        | $2.03       | [Link](https://www.amazon.in/ElectroBot-Momentary-Tactile-Push-Button/dp/B07PRRRBRY) | 
+| **Total** | —                  | —                              | **₹2,611.87** | **$28.73** | — |
+
 Note* In some of the links their are multiple component because I coudnt find single component link.
