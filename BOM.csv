@@ -1,0 +1,12 @@
+Item no.,Component,Specs/Model,Price (INR),Price (US$),Item link
+1,ESP32 devkit,ESP32-S3-DevKitC-1-N8R8,1194.87,13.14,https://www.mouser.in/ProductDetail/Espressif-Systems/ESP32-S3-DevKitC-1-N8R8?qs=7D1LtPJG0i2PiuUUKucutQ%3D%3D&mgh=1&utm_source=chatgpt.com
+2,OLED display,SSD1306 OLED 128x64,520,5.72,https://www.amazon.in/Robocraze-Inches-Display-Module-Arduino/dp/B077TH5WWY
+3,Ultrasonic Module,HC-SR04 Ultrasonic,190,2.09,https://www.amazon.in/Banggood-Ultrasonic-Distance-Measuring-Transducer/dp/B01I1ZTPJC
+4,Potentiometer,10k 3-Pin,111,1.22,https://www.amazon.in/Electronic-Spices-Potentiometer-Multiple-Applications/dp/B0CP9NNMH3
+5,Servo Motor,SG90 Micro,139,1.53,https://www.amazon.in/Electronicspices-Digital-Helicopter-Airplane-Controls/dp/B08XZQY94P
+6,Breadboard & jumpers,,199,2.19,https://www.amazon.in/ApTechDeals-Breadboard-point-jumper-wires/dp/B07PQS67BN
+7,Resistors,10k ohm,129,1.42,https://www.amazon.in/10k-Ohm-Resistor-Tolerance-Pack/dp/B0DQFKBHBB
+8,Resistors,4.7k ohm,129,1.42,https://www.amazon.in/4-7k-Ohm-Resistor-Tolerance-Pack/dp/B0DQFHLBJ9
+9,PushButton,,185,2.20,https://www.amazon.in/ElectroBot-Momentary-Tactile-Push-Button/dp/B07PRRRBRY
+Total,, ,2796.87,30.72,
+
