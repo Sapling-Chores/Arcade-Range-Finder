@@ -33,5 +33,5 @@ I have seen multiple range finder but almost all of them had radar like display,
 | 9*        | PushButton         | --                             | ₹185        | &2.2        | [Link](https://www.amazon.in/ElectroBot-Momentary-Tactile-Push-Button/dp/B07PRRRBRY)
 | **Total** | —                  | —                              | **₹2,796.87** | **$30.72** | — |
 
-Note* In some of the links their are multiple units because I coudnt find single unit product link. \n
-Note" Product with " sign in BOM has lower price than I provided in price screenshot while uploading the project.
+* Note* In some of the links their are multiple units because I coudnt find single unit product link. 
+* Note" Product with " sign in BOM has lower price than I provided in price screenshot while uploading the project.
