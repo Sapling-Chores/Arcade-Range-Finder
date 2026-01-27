@@ -24,7 +24,7 @@ I have seen multiple range finder but almost all of them had radar like display,
 |----------|-------------------|------------------------------|-------------|-------------|-----------|
 | 1        | ESP32 devkit       | ESP32‑S3‑DevKitC‑1‑N8R8      | ₹1,194.87   | $13.14      | [Link](https://www.mouser.in/ProductDetail/Espressif-Systems/ESP32-S3-DevKitC-1-N8R8?qs=7D1LtPJG0i2PiuUUKucutQ%3D%3D&mgh=1&utm_source=chatgpt.com) |
 | 2        | OLED display       | SSD1306 OLED 128x64           | ₹352       | $3.84     | [Link](https://robu.in/product/1-3-inch-i2c-iic-oled-4-pin-lcd-module-4pin-with-vcc-gnd-blue) |
-| 3        | Ultrasonic Module  | HC‑SR04 Ultrasonic            | ₹190        | $2.09       | [Link](https://www.amazon.in/Banggood-Ultrasonic-Distance-Measuring-Transducer/dp/B01I1ZTPJC) |
+| 3        | Ultrasonic Module  | HC‑SR04 Ultrasonic            | ₹190        | $2.09       | [Link](https://robocraze.com/products/hc-sr-04-ultrasonic-sensor) |
 | 4*       | Potentiometer      | 10k 3‑Pin                     | ₹111        | $1.22       | [Link](https://robocraze.com/products/hc-sr-04-ultrasonic-sensor) |
 | 5        | Servo Motor        | SG90 Micro                     | ₹139        | $1.53       | [Link](https://www.amazon.in/Electronicspices-Digital-Helicopter-Airplane-Controls/dp/B08XZQY94P) |
 | 6        | Breadboard & jumpers| —                             | ₹199        | $2.19       | [Link](https://www.amazon.in/ApTechDeals-Breadboard-point-jumper-wires/dp/B07PQS67BN) |
