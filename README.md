@@ -1,7 +1,7 @@
 # Arcade-Range-Finder
 
 ## What this project do?
-Arcade-Range-Finder is a Esp32 based range finder which uses Ultrasonic sensor and oled display to show the range in a very unique way.
+Arcade-Range-Finder is a raspberry pi pico based range finder which uses Ultrasonic sensor and oled display to show the range in a very unique way.
 This project has three modes controlled by pushButtons. 
 Mode 1 & 2: Radar like display which shows Blits when an object is detected in range.
 Mode 1 Specific - Manual Cntrol servo with Potentiometer.
