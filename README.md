@@ -16,7 +16,8 @@ I have seen multiple range finder but almost all of them had radar like display,
 
 
 # Schematics:
-<img width="1000" height="1076" alt="Schematics" src="https://github.com/user-attachments/assets/148f428e-7514-49a3-9115-b7ddd1f788f8" />
+<img width="1202" height="715" alt="{34E696DF-806E-4F16-AFEF-69D0F57188B0}" src="https://github.com/user-attachments/assets/8c961f5b-97aa-4ffa-b78f-c5ad960e567a" />
+
 
 ## BOM
 
