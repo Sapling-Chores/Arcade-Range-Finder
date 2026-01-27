@@ -27,7 +27,7 @@ I have seen multiple range finder but almost all of them had radar like display,
 | 3        | Ultrasonic Module  | HC‑SR04 Ultrasonic            | ₹190        | $2.09       | [Link](https://robocraze.com/products/hc-sr-04-ultrasonic-sensor) |
 | 4*       | Potentiometer      | 10k 3‑Pin                     | ₹111        | $1.22       | [Link](https://robocraze.com/products/potentiometer-knobs-pack-of-10) |
 | 5        | Servo Motor        | SG90 Micro                     | ₹139        | $1.53       | [Link](https://www.amazon.in/Electronicspices-Digital-Helicopter-Airplane-Controls/dp/B08XZQY94P) |
-| 6        | Breadboard & jumpers| —                             | ₹199        | $2.19       | [Link](https://www.amazon.in/ApTechDeals-Breadboard-point-jumper-wires/dp/B07PQS67BN) |
+| 6        | Breadboard & jumpers| —                             | ₹199        | $2.19       | [Link](https://robocraze.com/products/breadboard?_pos=3&_sid=e21812dd4&_ss=r) |
 | 7*        | Resistors          | 10k ohm                        | ₹129        | $1.42       | [Link](https://www.amazon.in/10k-Ohm-Resistor-Tolerance-Pack/dp/B0DQFKBHBB) |
 | 8*        | Resistors          | 4.7k ohm                       | ₹129        | $1.42       | [Link](https://www.amazon.in/4-7k-Ohm-Resistor-Tolerance-Pack/dp/B0DQFHLBJ9) |
 | 9*        | PushButton         | --                             | ₹185        | &2.2        | [Link](https://www.amazon.in/ElectroBot-Momentary-Tactile-Push-Button/dp/B07PRRRBRY)
