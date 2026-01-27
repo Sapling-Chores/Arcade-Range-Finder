@@ -39,6 +39,10 @@ Conversion rate used:
 | 9 | Breadboard | 1 | 71 | 0.77 | https://robocraze.com/products/breadboard?_pos=3&_sid=273252606&_ss=r |
 |10 | Jumper Wires Set | 1 | 128 | 1.40 | https://robocraze.com/products/jumper-wire-set-m2m-m2f-f2f-40-pcs-each?_pos=2&_sid=bf44cc87d&_ss=r |
 
+## Checkout page:
+<img width="1855" height="870" alt="{C71266C3-8C01-4ECC-98E7-B6AF25E16808}" src="https://github.com/user-attachments/assets/4537303b-e9df-4d49-b2e4-cba1340138ca" />
+
+
 ## Total
 | Currency | Total |
 |----------|--------|
