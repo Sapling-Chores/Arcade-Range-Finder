@@ -59,6 +59,12 @@ Conversion rate used:
 <img width="1855" height="870" alt="{C71266C3-8C01-4ECC-98E7-B6AF25E16808}" src="https://github.com/user-attachments/assets/4537303b-e9df-4d49-b2e4-cba1340138ca" />
 
 
+Note: I have not inlcuded bread board in the cad because it was not part of the final product.
+But I really need one.
+
+Thanks!
+
+
 ## Total
 | Currency | Total |
 |----------|--------|
