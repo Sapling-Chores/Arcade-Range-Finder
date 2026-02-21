@@ -39,24 +39,22 @@ Cad:
 
 # Bill of Materials (BOM)
 
-Conversion rate used:  
-**1 USD = ₹91.63**
 
 | S No | Item | Unit/Pieces | Price (Rs) | Price ($) | Link |
-|------|------|------------|------------|-----------|------|
+|---|----|---------|---------|-------|------|
 | 1 | Raspberry Pi Pico 2 W | 1 | 738 | 8.13 | https://robu.in/product/raspberry-pi-pico-2-w/ |
 | 2 | MG995 Servo | 1 | 240 | 2.65 | https://robu.in/product/towerpro-mg995-metal-gear-servo-motor/ |
 | 3 | HC-SR04 Ultrasonic Sensor | 1 | 74 | 0.82 | https://robocraze.com/products/hc-sr-04-ultrasonic-sensor |
 | 4 | SSD1306 0.96 OLED 128x64 | 1 | 219 | 2.41 | https://robu.in/product/0-96-oled-display-module/ |
-| 5 | 4-Pin Tactile Push Button Pack (10pcs) | 10 pcs | 16 | 0.18 | https://robocraze.com/products/4-pins-dip-momentary-square-tactile-push-button-switch-10-pieces-6x6x5mm |
-| 6 | Passive Buzzer Module | 1 | 24 | 0.26 | https://robu.in/product/smartelex-passive-buzzer-module/ |
-| 7 | 10k Ohm 0.25W Metal Film Resistor Pack (100pcs) | 100 pcs | 29 | 0.32 | https://robu.in/product/10k-ohm-0-25w-metal-film-resistor-pack-of-100/ |
-| 8 | MB102 830 Point Breadboard | 1 | 61 | 0.67 | https://robu.in/product/mb102-830-points-solderless-prototype-pcb-breadboard-high-quality/ |
-| 9 | Jumper Wire Set (M2M, M2F, F2F - 40pcs each) | 1 | 128 | 1.41 | https://robocraze.com/products/jumper-wire-set-m2m-m2f-f2f-40-pcs-each?variant=40192573636761 |
-| 10 | 10k Rotary Potentiometer Pack (5pcs) | 5 pcs | 66 | 0.73 | https://robocraze.com/products/10k-ohm-16mm-rotatory-variable-potentiometer-pack-of-5 |
-| 11 | Shipping (Robocraze) | 1 | 49 | 0.54 |  |
-| 12 | Shipping (Robu.in) | 1 | 0 | 0.00 |  |
-|  | **Total** |  | **1644** | **18.12** |  |
+| 5 | 4-Pin Tactile| 10 pcs | 16 | 0.18 | https://robocraze.com/products/4-pins-dip-momentary-square-tactile-push-button-switch-10-pieces-6x6x5mm |
+| 6 | Buzzer Module | 1 | 24 | 0.26 | https://robu.in/product/smartelex-passive-buzzer-module/ |
+| 7 | 10k Ohm 0.25W Resistor | 100 pcs | 29 | 0.32 | https://robu.in/product/10k-ohm-0-25w-metal-film-resistor-pack-of-100/ |
+| 8 | Breadboard | 1 | 61 | 0.67 | https://robu.in/product/mb102-830-points-solderless-prototype-pcb-breadboard-high-quality/ |
+| 9 | Jumper Wire Set | 1 | 128 | 1.41 | https://robocraze.com/products/jumper-wire-set-m2m-m2f-f2f-40-pcs-each?variant=40192573636761 |
+| 10 | 10k Rotary Potentiometer| 5 pcs | 66 | 0.73 | https://robocraze.com/products/10k-ohm-16mm-rotatory-variable-potentiometer-pack-of-5 |
+| 11 | Shipping (Robocraze) | 1 | 49 | 0.54 | - |
+| 12 | Shipping (Robu.in) | 1 | 0 | 0.00 | - |
+|  | **Total** |  | **1644** | **18.12** | - |
 
 
 
