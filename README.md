@@ -26,6 +26,9 @@ Cad:
 
 <img width="1219" height="729" alt="{B3FAAC0A-0B31-4C0B-A097-FDF3A977DD9B}" src="https://github.com/user-attachments/assets/16b011bd-acd2-4439-8f7d-0586f62fa6af" />
 
+<img width="1305" height="811" alt="{6561AC41-3016-4171-98F6-8D0EDA1C9C4F}" src="https://github.com/user-attachments/assets/63234076-bb54-4371-8d8c-1476ae833c4b" />
+
+
 <img width="1420" height="632" alt="Render-1" src="https://github.com/user-attachments/assets/ae9167f8-3e1a-413b-99a2-643bd582d354" />
 
 
@@ -67,16 +70,13 @@ Note : I updated checkout pages because there were some components out of stocks
 
 
 
-Note: I have not inlcuded bread board in the cad because it was not part of the final product.
+Note: I have not inlcuded breadboard in the cad because it was not part of the final product.
 But I really need one.
 
-Thanks!
+Thanks to :
 
+my mum , my dad, hackclub and blueprint.
+and blueprint staffs who works really well!
 
-## Total
-| Currency | Total |
-|----------|--------|
-| INR | **₹1275** |
-| USD | **$13.92** |
 
 
