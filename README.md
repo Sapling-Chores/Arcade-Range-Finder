@@ -26,6 +26,9 @@ Cad:
 
 <img width="1219" height="729" alt="{B3FAAC0A-0B31-4C0B-A097-FDF3A977DD9B}" src="https://github.com/user-attachments/assets/16b011bd-acd2-4439-8f7d-0586f62fa6af" />
 
+<img width="1420" height="632" alt="Render-1" src="https://github.com/user-attachments/assets/ae9167f8-3e1a-413b-99a2-643bd582d354" />
+
+
 
 
 
