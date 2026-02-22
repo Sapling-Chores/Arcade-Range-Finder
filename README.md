@@ -75,7 +75,7 @@ But I really need one.
 Thanks to :
 
 my mum , my dad, hackclub and blueprint.
-and blueprint staffs who works really well!
+and blueprint staffs who really helped mee!
 
 
 
