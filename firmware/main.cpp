@@ -18,7 +18,7 @@ const int SDAPin = 4;
 const int SCLPin = 5;
 const int servoPin = 6;
 const int buzzerPin = 13;
-const int potPin = 4;
+const int potPin = 8;
 
 Servo myservo;
 OneButton buttonRed(pushbuttonRed, true);
@@ -343,4 +343,5 @@ void loop(){
         display.display();
     }
 }
+
 
