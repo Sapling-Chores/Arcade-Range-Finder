@@ -14,9 +14,9 @@ const int pushbuttonRed = 19;
 const int pushbuttonBlue = 18;
 const int trigPin = 14;
 const int echoPin = 27;
-const int SDAPin = 21;
-const int SCLPin = 22;
-const int servoPin = 26;
+const int SDAPin = 4;
+const int SCLPin = 5;
+const int servoPin = 6;
 const int buzzerPin = 13;
 const int potPin = 4;
 
@@ -343,3 +343,4 @@ void loop(){
         display.display();
     }
 }
+
