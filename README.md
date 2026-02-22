@@ -22,7 +22,7 @@ I have seen multiple range finder but almost all of them had radar like display,
 <img width="1202" height="715" alt="{34E696DF-806E-4F16-AFEF-69D0F57188B0}" src="https://github.com/user-attachments/assets/8c961f5b-97aa-4ffa-b78f-c5ad960e567a" />
 <img width="1639" height="768" alt="{3B086E0B-E55D-48C3-B064-536685C85CE2}" src="https://github.com/user-attachments/assets/2cf545f6-51ee-4cf0-9c01-930daa81d2fe" />
 
-Cad:
+# Cad:
 
 <img width="1219" height="729" alt="{B3FAAC0A-0B31-4C0B-A097-FDF3A977DD9B}" src="https://github.com/user-attachments/assets/16b011bd-acd2-4439-8f7d-0586f62fa6af" />
 
@@ -40,7 +40,6 @@ Cad:
 
 ## BOM
 
-# Bill of Materials (BOM)
 
 
 | S No | Item | Unit/Pieces | Price (Rs) | Price ($) | Link |
@@ -55,8 +54,8 @@ Cad:
 | 8 | Breadboard | 1 | 61 | 0.67 | https://robu.in/product/mb102-830-points-solderless-prototype-pcb-breadboard-high-quality/ |
 | 9 | Jumper Wire Set | 1 | 128 | 1.41 | https://robocraze.com/products/jumper-wire-set-m2m-m2f-f2f-40-pcs-each?variant=40192573636761 |
 | 10 | 10k Rotary Potentiometer| 5 pcs | 66 | 0.73 | https://robocraze.com/products/10k-ohm-16mm-rotatory-variable-potentiometer-pack-of-5 |
-| 11 | Shipping (Robocraze) | 1 | 49 | 0.54 | - |
-| 12 | Shipping (Robu.in) | 1 | 0 | 0.00 | - |
+| 11 | Shipping (Robocraze) | | 49 | 0.54 | - |
+| 12 | Shipping (Robu.in) |  | 0 | 0.00 | - |
 |  | **Total** |  | **1644** | **18.12** | - |
 
 
