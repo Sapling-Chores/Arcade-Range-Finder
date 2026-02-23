@@ -64,10 +64,7 @@ Note: Do not power servos and ultrasonic sensor with MCU.
 
 
 Note : I updated checkout pages because there were some components out of stocks.
-## Checkout page:
-<img width="1578" height="758" alt="{BFEC8E5B-52E8-446E-9A52-B848A6E4B4C5}" src="https://github.com/user-attachments/assets/8f98bfcf-c2e6-462c-a467-0d8d6df399ee" />
 
-<img width="1125" height="746" alt="{752DBDBF-14D5-43F9-848D-CDFD90AA3417}" src="https://github.com/user-attachments/assets/759007c8-d27f-4e85-b733-8ad2eb8b604f" />
 
 
 
