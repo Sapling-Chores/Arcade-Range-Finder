@@ -72,10 +72,8 @@ Note : I updated checkout pages because there were some components out of stocks
 Note: I have not inlcuded breadboard in the cad because it was not part of the final product.
 But I really need one.
 
-Thanks to :
-
-my mum , my dad, hackclub and blueprint.
-and blueprint staffs who really helped mee!
+thanks to :
+  Blueprint and Hackclub!
 
 
 
