@@ -18,8 +18,9 @@ We also have small box which copies the x-cordinates of ball so everytime ball t
 I have seen multiple range finder but almost all of them had radar like display, but I wanted to do something different and unique.
 
 
-# Schematics:
-<img width="1202" height="715" alt="{34E696DF-806E-4F16-AFEF-69D0F57188B0}" src="https://github.com/user-attachments/assets/8c961f5b-97aa-4ffa-b78f-c5ad960e567a" />
+# Wiring:
+## This project doesnt uses pcb so its a simple wiring diagram .
+
 <img width="3000" height="2577" alt="circuit_image" src="https://github.com/user-attachments/assets/fa107782-8611-4e52-93e4-440fab4c0434" />
 
 Note: Do not power servos and ultrasonic sensor with MCU.
